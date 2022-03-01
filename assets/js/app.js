@@ -1,7 +1,4 @@
 /* Template Name: Doctris - Doctor Appointment Booking System
-   Author: Shreethemes
-   Website: https://shreethemes.in/
-   Mail: support@shreethemes.in
    Version: 1.0.0
    Updated: July 2021
    File Description: Main JS file of the template
